@@ -5,6 +5,7 @@ Part 2 = Handmade decision tree used for classification based on a mushroom data
 The feature class shows wheather a mushroom is edible or not.
 
 e= edible
+
 p = poisonous
 
 Hope it helps someone out.
